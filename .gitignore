@@ -1,0 +1,6 @@
+*.tar.zst
+*.log
+__pycache__/
+.env
+*.pem
+*.key
